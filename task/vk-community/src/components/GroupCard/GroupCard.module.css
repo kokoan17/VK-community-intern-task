@@ -1,0 +1,16 @@
+.groupCard {
+  width: 300px;
+  padding: 10px;
+  border: 1px black solid;
+}
+
+.groupCard__title {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 20px;
+}
+
+.groupCard__friends p {
+  cursor: pointer;
+}
